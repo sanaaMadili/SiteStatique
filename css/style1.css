@@ -469,7 +469,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(C:/Users/gob/Desktop/controleLachgar1/intro.png) top center;
+  background: url(../intro.png) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
